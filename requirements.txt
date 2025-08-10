@@ -1,0 +1,28 @@
+python -m venv venv
+
+venv\Scripts\Activate.ps1
+
+pip install streamlit PyPDF2 google-generativeai python-dotenv
+
+pip list
+
+#You should see the following packages installed:
+streamlit
+PyPDF2
+google-generativeai
+python-dotenv
+
+#GOOGLE_API_KEY=your_google_gemini_api_key_here
+
+streamlit run app.py
+
+pip install --upgrade google-generativeai
+pip install plotly
+
+
+# Finally run the below:
+pip install --upgrade streamlit PyPDF2 google-generativeai python-dotenv
+
+pip install streamlit PyPDF2 google-generativeai python-dotenv plotly
+
+streamlit run app.py
