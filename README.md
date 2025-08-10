@@ -28,5 +28,5 @@ The app provides:
 - **Data Visualization:** [Plotly](https://plotly.com/python/)
 
 ---
-Author
+## 📌 Author
 Thiyagheeswari G 
